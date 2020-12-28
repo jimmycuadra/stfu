@@ -1,0 +1,8 @@
+## Interface: 90002
+## Version: 1.0.0
+## Title: STFU
+## Author: Perceptes
+## Notes: Blocks talking heads based on the presence of the current zone in a blocklist.
+## SavedVariables: ENABLED, VERBOSE, BLOCKLIST
+
+STFU.lua
