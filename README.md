@@ -9,14 +9,14 @@ This can be changed by using in game slash commands to manipulate the blocklist.
 
 Run `/stfu` in game to see all the possible commands. They are as follows:
 
-`/stfu on` or `/stfu enable`: Enables STFU, allowing it to block talking heads.
-`/stfu off` or `/stfu disable`: disables STFU, preventing it from blocking talking heads.
-`/stfu toggle zone`: Toggles the inclusion of the current zone (e.g. Orgrimmar) in STFU's blocklist.
-`/stfu toggle subzone`: Toggles the inclusion of the current subzone (e.g. Valley of Strength) in STFU's blocklist.
-`/stfu list`: Prints a list of all the zones and subzones on the blocklist to the chat.
-`/stfu reset`: Sets the blocklist back to its default value, which is all Shadowlands dungeons.
-`/stfu clear`: Completely clears the blocklist, removing all zones and subzones.
-`/stfu verbose`: Toggles verbose logging. When on, messages will be printed to the main chat frame when talking heads are blocked.
+* `/stfu on` or `/stfu enable`: Enables STFU, allowing it to block talking heads.
+* `/stfu off` or `/stfu disable`: disables STFU, preventing it from blocking talking heads.
+* `/stfu toggle zone`: Toggles the inclusion of the current zone (e.g. Orgrimmar) in STFU's blocklist.
+* `/stfu toggle subzone`: Toggles the inclusion of the current subzone (e.g. Valley of Strength) in STFU's blocklist.
+* `/stfu list`: Prints a list of all the zones and subzones on the blocklist to the chat.
+* `/stfu reset`: Sets the blocklist back to its default value, which is all Shadowlands dungeons.
+* `/stfu clear`: Completely clears the blocklist, removing all zones and subzones.
+* `/stfu verbose`: Toggles verbose logging. When on, messages will be printed to the main chat frame when talking heads are blocked.
 
 # Acknowledgements
 
